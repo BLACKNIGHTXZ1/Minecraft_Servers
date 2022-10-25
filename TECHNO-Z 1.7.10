@@ -1,6 +1,6 @@
-      MODS LIST
+            MODS LIST
     
-  MODS ESSENTIELS
+      MODS ESSENTIELS
 
 - Iron Backpacks
 - Iron Chests
@@ -16,8 +16,6 @@
 - Ambience (pour black, client)
 - Controlling (client)
 - Baubles
-- AI Improvement (server-side)
-- NetherPortalFix (server-side)
 - MmmMmmMmmMmm
 - RPG-HUD (client)
 - RPGLoot
@@ -30,8 +28,11 @@
 + ChikenChunkPatcher
 - NEI
 + NEI AE2
+- Better Achievements
+- Immersive Cavegen
+- Highlands
 
-  MODS DU PACK
+      MODS DU PACK
   
 - Zombie Awarness
 - Hungry Zombies (server-side)
@@ -64,3 +65,9 @@
 - Dungeon Pack
 - Runic Dungeon
 - AtomicStryker's Infernal Mobs
+- Vic's Modern Warfare
+
+      MODS OPTI
+      
+- AI Improvement (server-side)
+- NetherPortalFix (server-side)
