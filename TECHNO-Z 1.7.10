@@ -21,13 +21,13 @@
 + FusionUtil
 - Trashslot
 - Recycle Items Plus
-- Death Counter
+- Death Counter (client)
 - Chiken Chunk
 + CodeChikenCore
 + ChikenChunkPatcher
-- NEI
-+ NEI AE2
-- Better Achievements
+- NEI (client)
++ NEI AE2 (client)
+- Better Achievements (client)
 - Immersive Cavegen
 - Highlands
 - Random Things
@@ -72,6 +72,7 @@
 + OpenModsLib
 - Ender Storage
 - Hardcore-Ender-Expansion
+- ExtraUtilitiesTweaks-1.0.0
 
       MODS OPTI
       
