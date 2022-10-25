@@ -2,6 +2,7 @@
     
       MODS ESSENTIELS
 
+- BetterPlacement(client)
 - Iron Backpacks
 - Iron Chests
 - Iron Furnaces
@@ -20,7 +21,7 @@
 - Death Counter (client)
 - Chiken Chunk
 + CodeChikenCore
-+ CodeChickenLib-1.7.10-1.1.5.5
++ CodeChickenLib
 + ForgeMultipart
 + ChikenChunkPatcher
 - NEI (client)
@@ -84,6 +85,15 @@
 + FamiliarsAPI
 - MutantCreatures
 + AnimationAPI
+- BLood Magic
+- enderlicious
+- netherlicious
+- Lumy skin patch
+- nature compass
+- waila
+- smart moving
++ smart render
++ playerapi
 
       MODS OPTI/CORRECTION
       
