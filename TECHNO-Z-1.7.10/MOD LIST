@@ -18,18 +18,13 @@
 - MmmMmmMmmMmm
 - Trashslot
 - Death Counter (client)
-- Chiken Chunk
-+ CodeChikenCore
-+ CodeChickenLib
-+ ForgeMultipart
-+ ChikenChunkPatcher
 - NEI (client)
 + NEI AE2 (client)
 - Better Achievements (client)
 - Immersive Cavegen
 - Highlands
 - Random Things
-- Lummy Skin Patch
+- waila
 
       MODS DU PACK
   
@@ -89,7 +84,11 @@
 - enderlicious
 - netherlicious
 - nature compass
-- waila
+- Chiken Chunk
++ CodeChikenCore
++ CodeChickenLib
++ ForgeMultipart
++ ChikenChunkPatcher
 
       MODS OPTI/CORRECTION
       
@@ -115,3 +114,4 @@
 - Biome Decoration Fix
 - FPS Reducer
 - Sampler
+- Lummy Skin Patch
