@@ -18,11 +18,11 @@
 - MmmMmmMmmMmm
 - RPG-HUD (client)
 - Trashslot
-- Recycle Items Plus
 - Death Counter (client)
 - Chiken Chunk
 + CodeChikenCore
 + CodeChickenLib-1.7.10-1.1.5.5
++ ForgeMultipart
 + ChikenChunkPatcher
 - NEI (client)
 + NEI AE2 (client)
