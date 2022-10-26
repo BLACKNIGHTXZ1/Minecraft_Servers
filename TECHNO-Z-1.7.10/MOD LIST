@@ -26,15 +26,6 @@
 - Light Level Overlay
 - Custom Armor Bar
 - Custom Health Bar
-- Lampchops
-- double doors
-- doggy talent
-- mob properties
-- stackie 
-+ lunatriuscore
-+ armor status hud
-+ bspkrcores
-- no mob spawning on trees
 
       MODS DU PACK
   
@@ -104,6 +95,16 @@ TConstruct
 - TimeHUD-Forge
 - [1.7.10]Treecapitator
 +[1.7.10]bspkrsCore
+- Lampchops
+- double doors
++ Grim3212-Core-1.7.10
+- doggy talent
+- mob properties
+- stackie 
++ lunatriuscore
++ armor status hud
++ bspkrcores
+- no mob spawning on trees
 
       MODS OPTI/CORRECTION
       
