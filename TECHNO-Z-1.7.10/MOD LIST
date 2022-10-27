@@ -106,7 +106,6 @@ TConstruct
 + armor status hud
 + bspkrcores
 - no mob spawning on trees
-+ CoroUtil
 - CleanView
 - Back In Slime-1.7.10-3.1.6
 - slime_crafting
