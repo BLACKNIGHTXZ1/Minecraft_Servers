@@ -97,7 +97,7 @@ TConstruct
 +[1.7.10]bspkrsCore
 - Lampchops
 - double doors
-+ Grim3212-Core-1.7.10
++ Grim3212-Core
 - doggy talent
 - mob properties
 - stackie 
@@ -105,9 +105,8 @@ TConstruct
 + armor status hud
 + bspkrcores
 - no mob spawning on trees
-- moveplus-2.3.1 for MC v1.7.10
 + CoroUtil
-- CleanView-1.7.10-v2
+- CleanView
 
       MODS OPTI/CORRECTION
       
