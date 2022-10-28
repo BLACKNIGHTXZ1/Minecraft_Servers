@@ -1,3 +1,16 @@
+V1.30
+
+**mods deleted**
+
+**fixe**
+
+* fix [#14](https://github.com/BLACKNIGHTXZ1/Minecraft_Servers/issues/14)
+* fix [#13](https://github.com/BLACKNIGHTXZ1/Minecraft_Servers/issues/13)
+
+**other**
+
+* Greatly optimize fps by deleting slime crafting(~ 500 before to 600 fps after)
+
 V1.29
 
 **mods updated**
