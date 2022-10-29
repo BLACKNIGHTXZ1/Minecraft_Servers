@@ -11,6 +11,12 @@ V1.32
 
 * BloodMagic-1.7.10-1.3.17
 
+**script added**
+
+remove recipe.zs
+
+* furnace.remove(<netherlicious:QuartzBricks:1>);
+
 V1.31
 
 **mods added**
