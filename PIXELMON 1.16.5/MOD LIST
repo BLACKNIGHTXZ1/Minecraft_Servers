@@ -8,6 +8,7 @@
 -Controlling
 -Appleskin
 -Crafting Tweaks
+-Notirium
 
   BOTH SIDE
   
@@ -23,6 +24,10 @@
 -Entity Culling
 +Renderlib
 -Particle Culling
+-Get It Togother Drop
+-FoamFix
+-FastWorkBench
+-FastFurnace
   
   SERVER ONLY
   
