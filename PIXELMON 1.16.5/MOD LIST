@@ -1,20 +1,22 @@
-      MOD LIST
+      MOD LIST (1.12.2)
       
   CLIENT
 
 -Xaero's Minimap
 +Xaero's World Map
 -Mouse Tweaks
--Controlling x
--Appleskin x 
--Crafting Tweaks x
+-Controlling
+-Appleskin
+-Crafting Tweaks
 
-  SERVER
+  MOD
   
 -KubeJS
-+Rhino
-+Architectury
 -JEI
 -Pixelmon
 -Starter Kit
 +Collective
+  
+  SERVER ONLY
+  
+-
