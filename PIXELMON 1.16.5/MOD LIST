@@ -9,6 +9,7 @@
 -Appleskin
 -Crafting Tweaks
 -Notirium
+-Block overlay fix
 
   BOTH SIDE
   
@@ -28,7 +29,12 @@
 -FoamFix
 -FastWorkBench
 -FastFurnace
-  
+-Performant
+-Surge
+-Reach fix
+-Entity desync fix
+
   SERVER ONLY
   
 -Born in a Barn
+-Portal Super cache
