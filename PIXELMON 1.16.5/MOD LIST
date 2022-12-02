@@ -10,6 +10,8 @@
 -Crafting Tweaks
 -Notirium
 -Block overlay fix
+-AntiGhost
+-Third Person Camera Fix
 
   BOTH SIDE
   
@@ -33,8 +35,14 @@
 -Surge
 -Reach fix
 -Entity desync fix
+-Dupefix Project
+-AttributeFix
+-Bed Bugs
+-RandomPatches
+-Bed Patch
 
   SERVER ONLY
   
+-NetherPortalFix
 -Born in a Barn
 -Portal Super cache
