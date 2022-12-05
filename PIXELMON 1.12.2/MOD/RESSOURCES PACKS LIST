@@ -6,7 +6,7 @@
 -ding
 -better placement
 -Xaero's Minimap
-+Xaero's World Map
+↳Xaero's World Map
 -Mouse Tweaks
 -Controlling
 -Appleskin
@@ -23,13 +23,13 @@
 -JEI
 -Pixelmon
 -Starter Kit
-+Collective
+↳Collective
 -AI Improvements
 -CensoredASM (loliasm)
-+mixinbooter
+↳mixinbooter
 -Clumps
 -Entity Culling
-+Renderlib
+↳Renderlib
 -Particle Culling
 -Get It Togother Drop
 -FoamFix
